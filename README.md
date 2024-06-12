@@ -4,12 +4,12 @@ Olá! Sou Cosmo André, um programador backend com mais de uma década de experi
 ## Principais Habilidades 
 |  Linguagens de programação  |  Bancos de dados  |  Frameworks    |  Devops          |
 |  -------------------------  |  ---------------  |  ------------  |  --------------  |
-|  Rust (meu favorito)        |  Postgres         |  Laravel       |  Kubernetes      |
+|  Rust (o favorito)          |  Postgres         |  Laravel       |  Kubernetes      |
 |  PHP                        |  MySQL            |  Django        |  Docker          |
 |  Python                     |  MariaDB          |  FastAPI       |  AWS             |
 |  JavaScript                 |  MongoDB          |  Actix-web     |  DigitalOcean    |
-|  Java (em aprendizado)       |  Redis            |  Async-graphl  |  Nginx           |
-|                             |  RabbitMQ         |  Bootstrap     |                  |
+|  Java (em aprendizado)      |  Redis            |  Async-graphl  |  Nginx           |
+|                             |  RabbitMQ         |  Bootstrap     |  GIT             |
 
 ## Aprendendo
 Atualmente, estou expandindo meus conhecimentos em Java e Spring Boot.
