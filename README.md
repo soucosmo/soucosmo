@@ -51,10 +51,10 @@ Olá! Sou Cosmo, um programador full stack com mais de uma década de experiênc
 - GIT
 
 ## 📖 Aprendendo
-Atualmente, estou expandindo meus conhecimentos em **Java** e **Spring Boot**.
+Atualmente, estou expandindo meus conhecimentos em **Java** e **Spring Boot**, e melhorando o meu inglês.
 
 ## ❤️ Interesses
-Sou apaixonado por contribuir para projetos open source e tenho grande interesse em eletrônica, física e astronomia. Acredito que "não é porque algo é velho que é ruim, e o novo não é necessariamente o melhor; tudo se completa".
+Sou apaixonado por contribuir para projetos open source e tenho grande interesse em eletrônica, física e astronomia.
 
 ## 💼 Algumas Experiências
 - Desenvolvimento de Bots para Redes Sociais para aumentar interações orgânicas, incluindo seguir, curtir, comentar e visualizar.
@@ -67,4 +67,9 @@ Sou apaixonado por contribuir para projetos open source e tenho grande interesse
 - Automação de tarefas repetitivas para aumentar a produtividade.
 
 ## 🏆 Reconhecimentos
-Conquistei o 6º lugar no hackaton Nasa Space Apps em Goiânia no ano de 2019, desenvolvendo soluções de análise de dados para combater queimadas ao redor do mundo.
+Conquistei o 6º lugar no hackaton **Nasa Space Apps** em Goiânia no ano de 2019, desenvolvendo soluções de análise de dados para combater queimadas ao redor do mundo.
+
+## 🗺️ Idiomas
+- Português (nativo)
+- Inglês (iniciante)
+- Espanhol (intermediário)
