@@ -24,6 +24,7 @@ Olá! Sou Cosmo, um programador full stack com mais de uma década de experiênc
 - VueJS
 - Vite
 - React
+- Apis Rest
 
 ### 📱 Mobile
 - React Native
